@@ -1,0 +1,16 @@
+.title {
+  color: white;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.counter {
+  font-size: 1.2rem;
+  text-align: center;
+  color: #bbb;
+  font-weight: 400;
+}
+
+.counter span:nth-child(2) {
+  font-weight: 600;
+}

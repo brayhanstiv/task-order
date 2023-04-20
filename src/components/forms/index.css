@@ -1,0 +1,29 @@
+.modal-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.input-form {
+  border: gray 1px solid;
+  background: #fafafa;
+  padding: 5px 10px;
+  border-radius: 10px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.buttons button:nth-child(1) {
+  margin-right: 10px;
+}
+
+.modal-button {
+  background-color: darkblue;
+  color: white;
+  border-radius: 10px;
+  padding: 5px 10px;
+}
